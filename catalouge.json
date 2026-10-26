@@ -1,0 +1,51 @@
+{
+  "sci-fi": [
+    {"title": "Dune", "author": "Frank Herbert"},
+    {"title": "The Left Hand of Darkness", "author": "Ursula K. Le Guin"},
+    {"title": "Neuromancer", "author": "William Gibson"},
+    {"title": "Project Hail Mary", "author": "Andy Weir"},
+    {"title": "The Three-Body Problem", "author": "Liu Cixin"},
+    {"title": "Hyperion", "author": "Dan Simmons"},
+    {"title": "Foundation", "author": "Isaac Asimov"}
+  ],
+  "fantasy": [
+    {"title": "The Name of the Wind", "author": "Patrick Rothfuss"},
+    {"title": "A Wizard of Earthsea", "author": "Ursula K. Le Guin"},
+    {"title": "Mistborn: The Final Empire", "author": "Brandon Sanderson"},
+    {"title": "The Hobbit", "author": "J.R.R. Tolkien"},
+    {"title": "Piranesi", "author": "Susanna Clarke"},
+    {"title": "The Fifth Season", "author": "N.K. Jemisin"}
+  ],
+  "horror": [
+    {"title": "The Shining", "author": "Stephen King"},
+    {"title": "The Haunting of Hill House", "author": "Shirley Jackson"},
+    {"title": "Mexican Gothic", "author": "Silvia Moreno-Garcia"},
+    {"title": "Bird Box", "author": "Josh Malerman"},
+    {"title": "The Exorcist", "author": "William Peter Blatty"},
+    {"title": "House of Leaves", "author": "Mark Z. Danielewski"}
+  ],
+  "mystery": [
+    {"title": "The Hound of the Baskervilles", "author": "Arthur Conan Doyle"},
+    {"title": "Gone Girl", "author": "Gillian Flynn"},
+    {"title": "The Thursday Murder Club", "author": "Richard Osman"},
+    {"title": "And Then There Were None", "author": "Agatha Christie"},
+    {"title": "The Big Sleep", "author": "Raymond Chandler"},
+    {"title": "In the Woods", "author": "Tana French"}
+  ],
+  "non-fiction": [
+    {"title": "Sapiens", "author": "Yuval Noah Harari"},
+    {"title": "Thinking, Fast and Slow", "author": "Daniel Kahneman"},
+    {"title": "The Code Breaker", "author": "Walter Isaacson"},
+    {"title": "Educated", "author": "Tara Westover"},
+    {"title": "The Gene", "author": "Siddhartha Mukherjee"},
+    {"title": "Flash Boys", "author": "Michael Lewis"}
+  ],
+  "popular": [
+    {"title": "Project Hail Mary", "author": "Andy Weir"},
+    {"title": "The Thursday Murder Club", "author": "Richard Osman"},
+    {"title": "Piranesi", "author": "Susanna Clarke"},
+    {"title": "Educated", "author": "Tara Westover"},
+    {"title": "Dune", "author": "Frank Herbert"},
+    {"title": "The Name of the Wind", "author": "Patrick Rothfuss"}
+  ]
+}
